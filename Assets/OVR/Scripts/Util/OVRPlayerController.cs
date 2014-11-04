@@ -174,9 +174,6 @@ public class OVRPlayerController : MonoBehaviour
 
 	public virtual void UpdateMovement()
 	{
-		if (Input.GetKey (KeyCode.F))
-						Jump ();
-
 		if (HaltUpdateMovement)
 			return;
 
