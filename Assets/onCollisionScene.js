@@ -1,9 +1,10 @@
 ﻿#pragma strict
 
-function Start () {
+function OnTriggerEnter (myCollision : Collision) 
+{
 
+if(myCollision.gameObject.name == "Floor")
+{
+	Application.LoadLevel(0);
 }
-
-function Update () {
-
 }
