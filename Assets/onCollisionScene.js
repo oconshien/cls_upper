@@ -1,10 +1,9 @@
 ﻿#pragma strict
 
-function OnTriggerEnter (myCollision : Collision) 
+function OnTriggerEnter (col : Collider)
 {
-
-if(myCollision.gameObject.name == "Floor")
-{
-	Application.LoadLevel(0);
-}
+    if(col.gameObject.name == "scene_portal_steps")
+    {
+        Application.LoadLevel ("hallway");
+    }
 }
