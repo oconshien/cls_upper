@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/LoadLevel.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/onCollisionScene.js">
     <Files>
-      <File FileName="Assets/Scenes/LoadLevel.js" Line="13" Column="33" />
-      <File FileName="Assets/onCollisionScene.js" Line="10" Column="2" />
+      <File FileName="Assets/onCollisionScene.js" Line="1" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
