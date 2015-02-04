@@ -2,7 +2,7 @@
 
 function OnTriggerEnter (col : Collider)
 {
-    if(col.gameObject.name == "Staircase_window")
+    if(col.gameObject.name == "collide_up")
     {
         Application.LoadLevel ("hallway");
     }
@@ -17,7 +17,7 @@ function OnTriggerEnter (col : Collider)
         Application.LoadLevel ("1");
     }
     
-    if(col.gameObject.name == "st")
+    if(col.gameObject.name == "collide_down")
     {
         Application.LoadLevel ("1");
     }
