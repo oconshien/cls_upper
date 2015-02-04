@@ -6,9 +6,14 @@ function OnTriggerEnter (col : Collider)
     {
         Application.LoadLevel ("hallway");
     }
+        
+    if(col.gameObject.name == "ske11")
+    {
+        Application.LoadLevel ("hallway_elev");
+    }
     
     if(col.gameObject.name == "lock_door-r")
     {
-        Application.LoadLevel ("hallway");
+        Application.LoadLevel ("1");
     }
 }
