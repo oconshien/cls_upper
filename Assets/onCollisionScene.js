@@ -16,4 +16,14 @@ function OnTriggerEnter (col : Collider)
     {
         Application.LoadLevel ("1");
     }
+    
+    if(col.gameObject.name == "st")
+    {
+        Application.LoadLevel ("1");
+    }
+    
+    if(col.gameObject.name == "elev")
+    {
+        Application.LoadLevel ("1_elev");
+    }
 }
