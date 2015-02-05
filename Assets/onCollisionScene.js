@@ -22,7 +22,7 @@ function OnTriggerEnter (col : Collider)
         Application.LoadLevel ("1");
     }
     
-    if(col.gameObject.name == "elev")
+    if(col.gameObject.name == "ske12")
     {
         Application.LoadLevel ("1_elev");
     }
