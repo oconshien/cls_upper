@@ -31,4 +31,16 @@ function OnTriggerEnter (col : Collider)
     {
         Application.LoadLevel ("1_elev");
     }
+    
+    if(col.gameObject.name == "portal_up-down")
+    {
+        Application.LoadLevel ("hallway_back");
+    }
+    
+    if(col.gameObject.name == "portal_down-up")
+    {
+        Application.LoadLevel ("3");
+    }
+    
+    
 }
