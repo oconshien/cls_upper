@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class LoadLevel_Up_Left : MonoBehaviour {
+public class LoadLevel_Up_Left : MonoBehaviour 
+{
 
 	void OnTriggerEnter(Collider other)
 	{
