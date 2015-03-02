@@ -65,9 +65,12 @@
      <Compile Include="Assets\Scripts\CollisionController.cs" />
      <Compile Include="Assets\Scripts\Global.cs" />
      <Compile Include="Assets\Scripts\JumpScript.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Down_Back.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Down_Elev.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Down_Main.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Up_Back.cs" />
      <Compile Include="Assets\Scripts\LoadLevel_Up_Elev.cs" />
-     <Compile Include="Assets\Scripts\LoadLevel_Up_Left.cs" />
-     <Compile Include="Assets\Scripts\LoadLevel_Up_Right.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Up_Main.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />

@@ -65,9 +65,12 @@
      <Compile Include="Assets\Scripts\CollisionController.cs" />
      <Compile Include="Assets\Scripts\Global.cs" />
      <Compile Include="Assets\Scripts\JumpScript.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Down_Back.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Down_Elev.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Down_Main.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Up_Back.cs" />
      <Compile Include="Assets\Scripts\LoadLevel_Up_Elev.cs" />
-     <Compile Include="Assets\Scripts\LoadLevel_Up_Left.cs" />
-     <Compile Include="Assets\Scripts\LoadLevel_Up_Right.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel_Up_Main.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
@@ -77,7 +80,7 @@
      <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
      <None Include="Assets\Plugins\x86\donotdelete.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>/Users/engineering/Desktop/cls_upper/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>/Users/engineering/cls_upper/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
