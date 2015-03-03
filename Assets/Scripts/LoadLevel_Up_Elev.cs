@@ -6,6 +6,6 @@ public class LoadLevel_Up_Elev : MonoBehaviour
 	
 	void OnTriggerEnter(Collider other)
 	{
-		AutoFade.LoadLevel ("2", 1, 1, Color.black);
+		AutoFade.LoadLevel ("2_elev", 1, 1, Color.black);
 	}
 }
