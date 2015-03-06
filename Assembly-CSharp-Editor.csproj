@@ -46,19 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\OVR\Editor\OVRBuild.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRGameView.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRPlayerControllerEditor.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRPrefabs.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRShimLoader.cs" />
-     <None Include="Assets\Plugins\donotdelete.txt" />
-     <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
+     <Compile Include="Assets\Resources\OVR\Editor\OVRBuild.cs" />
+     <Compile Include="Assets\Resources\OVR\Editor\OVRGameView.cs" />
+     <Compile Include="Assets\Resources\OVR\Editor\OVRPlayerControllerEditor.cs" />
+     <Compile Include="Assets\Resources\OVR\Editor\OVRPrefabs.cs" />
+     <Compile Include="Assets\Resources\OVR\Editor\OVRShimLoader.cs" />
+     <None Include="Assets\Resources\Plugins\donotdelete.txt" />
+     <None Include="Assets\Resources\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
-     <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
+     <None Include="Assets\Resources\OVR\Shaders\TextShader3D.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
-     <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
-     <None Include="Assets\Plugins\x86\donotdelete.txt" />
+     <None Include="Assets\Resources\OVR\Shaders\OVRGUIShader.shader" />
+     <None Include="Assets\Resources\Plugins\x86\donotdelete.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
