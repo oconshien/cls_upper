@@ -71,6 +71,7 @@
      <Compile Include="Assets\Resources\Scripts\LoadLevel_Up_Back.cs" />
      <Compile Include="Assets\Resources\Scripts\LoadLevel_Up_Elev.cs" />
      <Compile Include="Assets\Resources\Scripts\LoadLevel_Up_Main.cs" />
+     <Compile Include="Assets\Scripts\Fading.cs" />
      <None Include="Assets\Resources\Plugins\donotdelete.txt" />
      <None Include="Assets\Resources\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
