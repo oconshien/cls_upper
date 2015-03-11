@@ -63,7 +63,6 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
      <Compile Include="Assets\Scripts\AutoFade.cs" />
      <Compile Include="Assets\Scripts\CollisionController.cs" />
-     <Compile Include="Assets\Scripts\Fading.cs" />
      <Compile Include="Assets\Scripts\Global.cs" />
      <Compile Include="Assets\Scripts\JumpScript.cs" />
      <Compile Include="Assets\Scripts\LoadLevel_Down_Back.cs" />
